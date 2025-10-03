@@ -19,7 +19,7 @@ Perform unsupervised customer segmentation using **K-Means clustering**, applyin
 ## 📂 Dataset(s)  
 - **Mall Customers Dataset**(`Mall_Customers.csv`)
 - contains customer demographics, income, and spending scores.  
-  We use the [Mall Customer Segmentation Dataset on Kaggle](https://www.kaggle.com/datasets/vjchoudhary7 customer-segmentation-tutorial-in-python)
+  We use the [Mall Customer Segmentation Dataset on Kaggle](https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python)
 
 ## 🏃 How to Run  
 1. Clone this repository:  
